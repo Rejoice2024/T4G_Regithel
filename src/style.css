@@ -103,11 +103,11 @@ body{
 }
 
 .purple{
-    background-color: purple;
+    background: purple;
 }
 
 .orange{
-    background-color: orange;
+    background: orange;
 }
 .yellow{
     background:yellow ;
@@ -115,4 +115,16 @@ body{
 
 .red{
     background: red;
+}
+.indigo{
+      background: indigo;
+}
+.turquoise{
+     background: turquoise;
+}
+.pink{
+    background: pink;
+}
+.yellow{
+    background: yellow;
 }
