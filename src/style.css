@@ -35,7 +35,7 @@ body{
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(red, green, blue, alpha);
     width: 250px;
-    border: 3px dotted;
+    border: 3px dotted ;
 }
 
 .box-header{
