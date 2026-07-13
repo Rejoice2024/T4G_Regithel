@@ -1,0 +1,52 @@
+.container {
+    margin: 30px auto;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4, 250px);
+    gap: 35px;
+}
+
+.box {
+    border: 1.5px solid #ddd;
+    border-radius: 6px;
+    overflow: hidden;
+    background-color: white;
+}
+
+.box:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #aaa;
+}
+
+.box-header {
+    height: 90px;
+}
+
+.box-body {
+    padding: 15px;
+}
+
+.box-body h3 {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+.box-body p {
+    color: gray;
+}
+
+.color-1 {
+    background-color: #6c5ce7;
+}
+
+.color-2 {
+    background-color: #0984e3;
+}
+
+.color-3 {
+    background-color: #00b894;
+}
+
+.color-4 {
+    background-color: #fd79a8;
+}
